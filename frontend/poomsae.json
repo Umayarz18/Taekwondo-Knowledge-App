@@ -1,6 +1,8 @@
 [
     {
         "poomsae_name": "Taegeuk Il Jang",
+        "poomsae_symbol": "keon",
+        "poomsae_description": "insert here",
         "poomsae_meaning": "Heaven",
         "move_number": 20,
         "new_techniques_english": [
@@ -16,16 +18,16 @@
         "new_techniques_korean_translation": [
             "Momtong bandae jireugi",
             "Momtong baro jireugi",
-            "Ahp kubi seogi",
-            "Ahp seogi",
+            "Ap kubi seogi",
+            "Ap seogi",
             "Momtong ahn makki",
             "Arae makki",
             "Olgul makki",
-            "Ahp chagi"
+            "Ap chagi"
         ]
     },
     {
-        "poomsae_name": "Taegeuk Il Jang",
-        "poomsae_meaning": "Heaven"
+        "poomsae_name": "Taegeuk Yi Jang",
+        "poomsae_meaning": "Inner firmness and outer softness"
     }
 ]
