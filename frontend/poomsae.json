@@ -1,0 +1,31 @@
+[
+    {
+        "poomsae_name": "Taegeuk Il Jang",
+        "poomsae_meaning": "Heaven",
+        "move_number": 20,
+        "new_techniques_english": [
+            "Mid-section obverse punch",
+            "Mid-section reverse punch",
+            "Front stance",
+            "Walking stance",
+            "Mid-section inner forearm block",
+            "Low block",
+            "High block",
+            "Front kick"
+        ],
+        "new_techniques_korean_translation": [
+            "Momtong bandae jireugi",
+            "Momtong baro jireugi",
+            "Ahp kubi seogi",
+            "Ahp seogi",
+            "Momtong ahn makki",
+            "Arae makki",
+            "Olgul makki",
+            "Ahp chagi"
+        ]
+    },
+    {
+        "poomsae_name": "Taegeuk Il Jang",
+        "poomsae_meaning": "Heaven"
+    }
+]
